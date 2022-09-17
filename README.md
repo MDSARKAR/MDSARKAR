@@ -1,13 +1,13 @@
 💫 About Me:
 
-🔭 I am currently Working on Explainable AI, Transformer Learning
-🌱 I’m currently learning Deep Learning , Machine Learning, Data Science
-👯 I’m looking to collaborate on Data Fusion and Self Automations.
-🤔 I’m looking for help with AI projects
-💬 Ask me about AI
-📫 How to reach me: Linkdin
-😄 Pronouns: MD Sarkar
-⚡ Fun fact: Nothing
+🔭 I am currently Working on Explainable AI, Transformer Learning </br>
+🌱 I’m currently learning Deep Learning , Machine Learning, Data Science </br>
+👯 I’m looking to collaborate on Data Fusion and Self Automations. </br>
+🤔 I’m looking for help with AI projects </br>
+💬 Ask me about AI </br>
+📫 How to reach me: Linkdin </br>
+😄 Pronouns: MD Sarkar </br>
+⚡ Fun fact: Nothing </br>
 
 
 
